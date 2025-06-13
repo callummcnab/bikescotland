@@ -1,0 +1,26 @@
+body {
+    background-color: aquamarine;
+    text-align: center;
+}
+.bgdark{
+      background-color: mediumaquamarine;
+      color: darkgoldenrod;
+}
+
+a { 
+ color: chocolate;
+    font-size: 30px;
+    font-family:cursive;
+}
+
+a:hover{
+    color: blue
+}
+
+h1 {
+  font-family: "Sriracha", cursive;
+  font-weight: 400;
+  font-style: normal;
+    font-size: 50px;
+    <img src="https://www.aqueon.com/-/media/project/oneweb/aqueon/us/blog/ways-to-know-your-fish-are-happy/fish-are-happy-and-healthy-1.png" jsaction="" class="sFlh5c FyHeAf iPVvYb" style="max-width: 1000px; height: 205px; margin: 0px; width: 315px;" alt="5 Ways to Know Your Fish Are Happy and Healthy" jsname="kn3ccd">
+}
